@@ -1,0 +1,5 @@
+.pic_b {width: 500px; height:500px; text-align: center; border: 5px solid #eeeeee;
+margin: 24px auto; overflow: hidden;}
+.pic_b img {box-shadow: 0 0 20px rgba(255,0,0,0.9); overflow: hidden;}
+.thumbs {width:500px; margin: auto;}
+.thumbs img {box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);}
